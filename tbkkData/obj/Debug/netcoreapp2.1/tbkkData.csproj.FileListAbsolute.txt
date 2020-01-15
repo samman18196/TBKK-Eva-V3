@@ -1,0 +1,825 @@
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.deps.json
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.json
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.dev.json
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.dll
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cache
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfoInputs.cache
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfo.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.input.cache
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.output.cache
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorCoreGenerate.cache
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cache
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cs
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CopyComplete
+C:\Users\iformatics\source\repos\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csprojAssemblyReference.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.deps.json
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.json
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.dev.json
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.dll
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CoreCompileInputs.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfoInputs.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.input.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.output.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorCoreGenerate.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CopyComplete
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csprojAssemblyReference.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.deps.json
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.json
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.dev.json
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.dll
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csprojAssemblyReference.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CoreCompileInputs.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfoInputs.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.input.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.output.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorCoreGenerate.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cache
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CopyComplete
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.deps.json
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.json
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.dev.json
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.dll
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csprojAssemblyReference.cache
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CoreCompileInputs.cache
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cache
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfoInputs.cache
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.input.cache
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.output.cache
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorCoreGenerate.cache
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cache
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CopyComplete
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Competencys\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Competencys\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Competencys\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Competencys\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Competencys\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\KPIs\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\KPIs\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\KPIs\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\KPIs\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\KPIs\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suggestions\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suggestions\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suggestions\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suggestions\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suggestions\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData (data + IT-service)_23_11_62_22_30 (1)\tbkkData\tbkkData\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.deps.json
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.json
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.dev.json
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.dll
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csprojAssemblyReference.cache
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CoreCompileInputs.cache
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cache
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfoInputs.cache
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.input.cache
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.output.cache
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorCoreGenerate.cache
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cache
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CopyComplete
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Index.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Create.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Delete.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Details.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Edit.g.cshtml.cs
+C:\Users\KirkThunder\Desktop\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.deps.json
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.json
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.dll
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfo.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.input.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.output.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorCoreGenerate.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\USER\Desktop\Tbkkเติ้ก\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CopyComplete
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.deps.json
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.json
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.dll
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfo.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.input.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.output.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorCoreGenerate.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\AssetJoinNetworks\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Assets\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Brands\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Canteens\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CarTypes\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Categorys\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\CompanyCars\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Companys\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Departments\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\DetailOTs\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\FoodSets\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinAssetEmps\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\JoinLicenseAssets\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Licenses\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Locations\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\OTs\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Parts\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Points\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Relationships\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Repairs\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Reports\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Suppliers\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CopyComplete
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Html\pfm.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Html\pfm2.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Html\pfm_profile.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Profile\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index2.g.cshtml.cs
+C:\Users\USER\Desktop\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index3.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.AssemblyInfo.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.input.cache
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.TagHelpers.output.cache
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorCoreGenerate.cache
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Create.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Details.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Index.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Create.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Details.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\EmployeeTypes\Index.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Create.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Details.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Evaluations\Index.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Create.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Details.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index2.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\GradeHistorys\Index3.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Html\pfm.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Html\pfm2.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Html\pfm_profile.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Profile\Index.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.deps.json
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.json
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.runtimeconfig.dev.json
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.dll
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.pdb
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.dll
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\bin\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.Views.pdb
+C:\Users\USER\Desktop\New Reserve TBKK Project\Tbkkเติ้ก - Copy\tbkkData(Trapodation && Performant)_26_11_62(18.00)\tbkkData(TS)_25_11_62\tbkkData\tbkkData\obj\Debug\netcoreapp2.1\tbkkData.csproj.CopyComplete

@@ -1,0 +1,52 @@
+﻿@page
+@model tbkkData.Pages.GradeHistorys.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>GradeHistory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.GrahAllPoint)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.GrahAllPoint)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.GrahBonusUp)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.GrahBonusUp)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.Count)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.Count)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.GrahSalaryUp)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.GrahSalaryUp)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.GrahYear)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.GrahYear)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="GradeHistory.GradeHistoryID" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

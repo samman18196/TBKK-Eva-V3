@@ -1,0 +1,49 @@
+﻿@page
+@model tbkkData.Pages.GradeHistorys.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>GradeHistory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.GrahAllPoint)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.GrahAllPoint)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.GrahBonusUp)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.GrahBonusUp)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.Count)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.Count)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.GrahSalaryUp)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.GrahSalaryUp)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GradeHistory.GrahYear)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GradeHistory.GrahYear)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.GradeHistory.GradeHistoryID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

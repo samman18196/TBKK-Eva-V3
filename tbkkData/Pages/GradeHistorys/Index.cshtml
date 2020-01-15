@@ -1,0 +1,320 @@
+﻿@page
+@model tbkkData.Pages.GradeHistorys.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+    <div align="center">
+
+        <table width=90% style="border:px dotted #123654;" cellpadding="4" cellspacing="4">
+            <tr>
+
+                <br>
+                <br>
+                <td style="border:7px dotted #123654;" background=url พื้นในกรอบ>
+                    <div align="center">
+                        <br>
+                        <img style="width:400px;"   alt=" @Model.Employee.Image" src="~/Image/@Model.Employee.Image" />
+                        <br>
+                        <br>
+                        <font size=5>First Name :  </font>
+
+                        <font size=5>@Html.DisplayFor(model => model.Employee.FirstName)</font>
+                        <br>
+                        <font size=5>Last Name :  </font>
+                        <font size=5> @Html.DisplayFor(model => model.Employee.LastName)</font>
+                        <br>
+                        <font size=5>Gender :  </font>
+                        <font size=5> @Html.DisplayFor(model => model.Employee.Gender)</font>
+                        <br>
+                        <font size=5>BirthDay : </font>
+                        <font size=5> @Html.DisplayFor(model => model.Employee.Birthday.Date)</font>
+                        <br>
+                        <font size=5>Email :</font>
+                        <font size=5> @Html.DisplayFor(model => model.Employee.Email)</font>         
+                        <br>
+                        <font size=5>Phone Number :  </font>
+                        <font size=5> @Html.DisplayFor(model => model.Employee.Telephone)</font>
+                        <br>
+                        <br>
+                    </div>
+                </td>
+
+            </tr>
+
+        </table>
+
+    </div>
+    <br>
+    <br>
+    <br>
+<div  class="container">
+    <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-7">
+
+
+            <h3 align="center">ฟอร์มแบบสอบถามด้านสมรรถนะ(Competency)</h3>
+            <br>
+            <form method="post">
+                <table width="100%" border="1" align="center" cellpadding="0" cellspacing="0">
+                    <script>
+
+                        //ตัวแปลสำหรับเก็บคะแนน ในแต่ล่ะคำถาม มี 8 ข้อ สร้าง 8ตัวมารับ
+                        var number1 = 0;
+                        var number2 = 0;
+                        var number3 = 0;
+                        var number4 = 0;
+                        var number5 = 0;
+                        var number6 = 0;
+                        var number7 = 0;
+                        var number8 = 0;
+                        //----------------------------------------------
+                        var sum = 0 ;
+
+                        function myFunction() {
+                            document.getElementById("test").innerHTML = sum = number1 + number2 + number3 + number4 + number5 + number6 + number7 + number8 + " / 40";
+                           
+                        }
+
+                        //ฟังก์ชั่นส่งคะแนน
+                        function  SumofPoint() {
+                            sum = number1 + number2 + number3 + number4 + number5 + number6 + number7 + number8
+                        }
+                    </script>
+
+
+
+                    <tr>
+                        <td width="100%" rowspan="2" align="center"><strong>รายการ</strong></td>
+                        <td height="40" colspan="10" align="center"><strong>ระดับความคิดเห็น</strong></td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 20px" width="5%" align="center"><strong>5</strong></td>
+                        <td style="padding: 20px" width="5%" align="center"><strong>4</strong></td>
+                        <td style="padding: 20px" width="5%" align="center"><strong>3</strong></td>
+                        <td style="padding: 20px" width="5%" align="center"><strong>2</strong></td>
+                        <td style="padding: 20px" width="5%" align="center"><strong>1</strong></td>
+                    </tr>
+
+                    <tr>
+                        <td height="40" colspan="6" bgcolor="#F4F4F4"><strong>  Core Competency (ด้านความสามรถหลัก)</strong></td>
+                    </tr>
+                    <tr>
+                        <td height="60">&nbsp; 1.Collaboration(การทำงานร่วมกับผู้อื่น)</td>
+                        <td height="30" align="center">
+                            <input type="radio"  name="a1" onclick="number1=5" required="required" />
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio"  name="a1" onclick="number1=4" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio"  name="a1" onclick="number1=3" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio"  name="a1" onclick="number1=2" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio"  name="a1" onclick="number1=1" />
+
+                        </td>
+                       
+                    </tr>
+                    
+                    <tr>
+                        <td height="60">&nbsp; 2.Teamwork(การทำงานเป็นทีม)</td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a2" onclick="number2=5" required="required" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a2" onclick="number2=4" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a2" onclick="number2=3" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a2" onclick="number2=2" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a2" onclick="number2=1" />
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="60">&nbsp; 3.Continuous Improvement(การปรังปรุงอย่างต่อเนื่อง)</td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a3" onclick="number3=5" required="required" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a3" onclick="number3=4" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a3" onclick="number3=3" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a3" onclick="number3=2" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a3" onclick="number3=1" />
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="60">&nbsp; 4.Achievement Orientation(การมุ้งเน้นความสำเร็จ)</td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a4" onclick="number4=5" required="required" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a4" onclick="number4=4" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a4" onclick="number4=3" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a4"onclick="number4=2"  />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a4" onclick="number4=1" />
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="40" colspan="6" bgcolor="#F4F4F4">
+                            <strong>Function Competency (ฟังก์ชั่นความสามารถ)</strong>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="60">&nbsp; 1.Accountability(ความรับผิดชอบในงาน)</td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a5" onclick="number5=5" required="required" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a5" onclick="number5=4 "/>
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a5" onclick="number5=3 "/>
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a5" onclick="number5=2" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a5" onclick="number5=1 "/>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="60">&nbsp; 2.Learning Ability(ความสามารถในการเรียนรู้)</td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a6" onclick="number6=5" required="required" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a6" onclick="number6=4 " />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a6" onclick="number6=3 " />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a6" onclick="number6=2" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a6" onclick="number6=1 " />
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="60">&nbsp; 3.Technical Knowledge(ความรู้ด้านเทคนิคเฉพาะงาน)</td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a7" onclick="number7=5" required="required" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a7" onclick="number7=4 " />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a7" onclick="number7=3  "/>
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a7" onclick="number7=2" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a7" onclick="number7=1 " />
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="60">&nbsp; 4.Energetic(ความกระตือรือร้น)  </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a8" onclick="number8=5" required="required" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a8" onclick="number8=4"  />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a8" onclick="number8=3"  />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a8" onclick="number8=2" />
+
+                        </td>
+                        <td height="30" align="center">
+                            <input type="radio" name="a8" onclick="number8=1"  />
+
+                        </td>
+                    </tr>
+
+
+                </table>
+                <br />
+                <h1 style="font-size:18px"> ตอนที่ 2 ข้อเสนอแนะเพิ่มเติม </h1>
+                <div class="col-sm-12">
+                    <label hidden asp-for="Evaluation.EvaDetail" class="col-sm-0 col-form-label"></label>
+                    <textarea rows="4" cols="15" asp-for="Evaluation.EvaDetail" class="form-control"></textarea>
+                    <span asp-validation-for="Evaluation.EvaDetail" class="text-danger"></span>
+                </div>
+                <br />
+
+
+
+
+
+
+
+            </form>
+         
+            <button  onclick="SumofPoint()" class="btn btn-primary">Next</button>
+            <a id="test"></a>
+            <br /><br />
+        </div>
+    </div>
+</div>

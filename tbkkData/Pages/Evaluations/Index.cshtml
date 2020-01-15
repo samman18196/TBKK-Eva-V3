@@ -1,0 +1,68 @@
+﻿@page
+@model tbkkData.Pages.Evaluations.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Evaluation[0].EvaDetail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Evaluation[0].EvaSumPoint)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Evaluation[0].EvaDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Evaluation[0].EvaStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Evaluation[0].Evatype)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Evaluation[0].Eva_GradeHistoryID)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Evaluation) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EvaDetail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EvaSumPoint)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EvaDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EvaStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Evatype)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.Eva_GradeHistoryID)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.EvaluationID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.EvaluationID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.EvaluationID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
