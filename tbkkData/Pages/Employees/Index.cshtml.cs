@@ -20,6 +20,7 @@ namespace tbkkData.Pages.Employees
 
         public IList<Employee> Employee { get;set; }
 
+        public IList<Detail_Eva> Detail_Eva { get; set; }
 
         public IList<Department> Department { get; set; }
 
@@ -33,6 +34,9 @@ namespace tbkkData.Pages.Employees
             Employee = await _context.Employee 
                 .ToListAsync();
 
+            Detail_Eva = await _context.Detail_Eva
+                .ToListAsync();
+
             Department = await _context.Department
                 .ToListAsync();
 
@@ -43,19 +47,8 @@ namespace tbkkData.Pages.Employees
               .FirstOrDefaultAsync();
 
 
-            DepartmentV2 = new List<string>();
-
-         /*  for(int i = 0; i < Employee.Count(); i++)
-            {
-                for(int j = 0; j < Department.Count(); j++)
-                {
-                    if(Employee[i].Employee_DepartmentNameID == Department[j].DepartmentID)
-                    {
-                        DepartmentV2.Add(Employee[i].DepartmentID.DepartmentName);
-                        break;
-                    }
-                }
-            }*/
+         
+        
 
 
         }

@@ -16,7 +16,7 @@ namespace tbkkData.Models
         public string Address { get; set; }
         public string Telephone { get; set; }
         public string Email { get; set; }
-        public int Age { get; set; }
+        public int StatusEva { get; set; }
         public string Status { get; set; }
         public string Image { get; set; }
         public double Salary { get; set; }

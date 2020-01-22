@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="Pages\GradeHistorys\Index3.cshtml">
+    <Content Update="Pages\GradeHistorys\Quick Evalution.cshtml">
       <Pack>$(IncludeRazorContentInPack)</Pack>
     </Content>
   </ItemGroup>

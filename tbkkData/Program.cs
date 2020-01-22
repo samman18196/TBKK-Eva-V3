@@ -27,8 +27,16 @@ namespace tbkkData
                 try
                 {
                     var logger = services.GetRequiredService<ILogger<Program>>();
-                    logger.LogDebug("22222222222222222222222222222");
-                    SeedData.Initialize(services);
+                    logger.LogDebug("123456789");
+                    SeedGradeHistory.Initialize(services);
+                    SeedEmployeeType.Initialize(services);
+                    SeedCompany.Initialize(services);
+                    SeedPosition.Initialize(services);
+                    SeedDepartment.Initialize(services);
+                    SeedEvaluation.Initialize(services);    
+                    SeedEmployee.Initialize(services);
+                    SeedLogin.Initialize(services);
+                    SeedDetail_Eva.Initialize(services);
                 }
                 catch (Exception ex)
                 {

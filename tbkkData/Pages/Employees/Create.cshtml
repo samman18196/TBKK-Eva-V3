@@ -4,7 +4,7 @@
 @{
     ViewData["Title"] = "Create";
 }
-
+<br />
 <h2>Create</h2>
 
 <h4>Employee</h4>
@@ -13,9 +13,9 @@
     <div class="col-md-4">
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-         
-         
-            
+
+
+
             <div class="form-group">
                 <label asp-for="Employee.FirstName" class="control-label"></label>
                 <input asp-for="Employee.FirstName" class="form-control" />
@@ -26,9 +26,15 @@
                 <input asp-for="Employee.LastName" class="form-control" />
                 <span asp-validation-for="Employee.LastName" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <label asp-for="Employee.Gender" class="control-label"></label>
-                <input asp-for="Employee.Gender" class="form-control" />
+                <select class="custom-select" asp-for="Employee.Gender" class="form-control">
+                    <option></option>
+                    <option>Male</option>
+                    <option>Female</option>
+                </select>
+
                 <span asp-validation-for="Employee.Gender" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -41,7 +47,7 @@
                 <input asp-for="Employee.Email" class="form-control" />
                 <span asp-validation-for="Employee.Email" class="text-danger"></span>
             </div>
-        
+
             <div class="form-group">
                 <label asp-for="Employee.Telephone" class="control-label"></label>
                 <input asp-for="Employee.Telephone" class="form-control" />
@@ -62,20 +68,23 @@
                 <input asp-for="Employee.Salary" class="form-control" />
                 <span asp-validation-for="Employee.Salary" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Employee.Status" class="control-label"></label>
-                <input asp-for="Employee.Status" class="form-control" />
-                <span asp-validation-for="Employee.Status" class="text-danger"></span>
+            
+            <div  hidden class="form-group">
+                <label asp-for="Employee.StatusEva" class="control-label"></label>
+                <input asp-for="Employee.StatusEva" class="form-control" value=0  />
+                <span asp-validation-for="Employee.StatusEva" class="text-danger"></span>
             </div>
+
+
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-default" />
+                <input type="submit" value="Create" class="btn btn-outline-success " />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-page="Index">Back to List</a>
+    <a class="btn btn-outline-danger  " asp-page="Index">Back to List</a>
 </div>
 
 @section Scripts {

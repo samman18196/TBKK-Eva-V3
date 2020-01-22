@@ -15,7 +15,7 @@ namespace tbkkData.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.1.11-servicing-32099")
+                .HasAnnotation("ProductVersion", "2.1.14-servicing-32113")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
@@ -53,6 +53,33 @@ namespace tbkkData.Migrations
                     b.ToTable("Department");
                 });
 
+            modelBuilder.Entity("tbkkData.Models.Detail_Eva", b =>
+                {
+                    b.Property<int>("Detail_EvaID")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Comment");
+
+                    b.Property<int>("DeEva_EmployeeID");
+
+                    b.Property<int>("DeEva_EvaluationID");
+
+                    b.Property<int>("DeEva_GradeHistoryID");
+
+                    b.Property<int>("Evaluator_ID");
+
+                    b.HasKey("Detail_EvaID");
+
+                    b.HasIndex("DeEva_EmployeeID");
+
+                    b.HasIndex("DeEva_EvaluationID");
+
+                    b.HasIndex("DeEva_GradeHistoryID");
+
+                    b.ToTable("Detail_Eva");
+                });
+
             modelBuilder.Entity("tbkkData.Models.Employee", b =>
                 {
                     b.Property<int>("EmployeeID")
@@ -60,8 +87,6 @@ namespace tbkkData.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Address");
-
-                    b.Property<int>("Age");
 
                     b.Property<DateTime>("Birthday");
 
@@ -97,6 +122,8 @@ namespace tbkkData.Migrations
 
                     b.Property<string>("Status");
 
+                    b.Property<int>("StatusEva");
+
                     b.Property<string>("Telephone");
 
                     b.HasKey("EmployeeID");
@@ -131,25 +158,9 @@ namespace tbkkData.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<DateTime>("EvaDate");
-
-                    b.Property<string>("EvaDetail");
-
-                    b.Property<int>("EvaStatus");
-
-                    b.Property<int>("EvaSumPoint");
-
-                    b.Property<int>("Eva_GradeHistoryID");
-
-                    b.Property<int>("EvaluatorID");
-
-                    b.Property<string>("Evatype");
-
-                    b.Property<int?>("GradeHistoryID1");
+                    b.Property<string>("EvaName");
 
                     b.HasKey("EvaluationID");
-
-                    b.HasIndex("GradeHistoryID1");
 
                     b.ToTable("Evaluation");
                 });
@@ -213,6 +224,24 @@ namespace tbkkData.Migrations
                     b.ToTable("Position");
                 });
 
+            modelBuilder.Entity("tbkkData.Models.Detail_Eva", b =>
+                {
+                    b.HasOne("tbkkData.Models.Employee", "Employee")
+                        .WithMany()
+                        .HasForeignKey("DeEva_EmployeeID")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("tbkkData.Models.Evaluation", "Evaluation")
+                        .WithMany()
+                        .HasForeignKey("DeEva_EvaluationID")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("tbkkData.Models.GradeHistory", "GradeHistory")
+                        .WithMany()
+                        .HasForeignKey("DeEva_GradeHistoryID")
+                        .OnDelete(DeleteBehavior.Cascade);
+                });
+
             modelBuilder.Entity("tbkkData.Models.Employee", b =>
                 {
                     b.HasOne("tbkkData.Models.Company", "CompanyID")
@@ -230,13 +259,6 @@ namespace tbkkData.Migrations
                     b.HasOne("tbkkData.Models.Position", "PositionID")
                         .WithMany()
                         .HasForeignKey("PositionID1");
-                });
-
-            modelBuilder.Entity("tbkkData.Models.Evaluation", b =>
-                {
-                    b.HasOne("tbkkData.Models.GradeHistory", "GradeHistoryID")
-                        .WithMany()
-                        .HasForeignKey("GradeHistoryID1");
                 });
 
             modelBuilder.Entity("tbkkData.Models.Login", b =>

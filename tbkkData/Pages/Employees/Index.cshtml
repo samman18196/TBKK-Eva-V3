@@ -72,13 +72,29 @@
 
 <table id="myTable">
     <tr style="background-color: black  " class="header">
-        <th style="width:25%; color :white "> @Html.DisplayNameFor(model => model.Employee[0].DepartmentID.DepartmentName)</th>
+        <th style="width:25%; color :white ">&nbsp;&nbsp; @Html.DisplayNameFor(model => model.Employee[0].DepartmentID.DepartmentName)</th>
         <th style="width:25%; color :white "> @Html.DisplayNameFor(model => model.Employee[0].FirstName)</th>
         <th style="width:25%; color :white "> @Html.DisplayNameFor(model => model.Employee[0].LastName)</th>
-        <th style="width:10%; color :white "> @Html.DisplayNameFor(model => model.Employee[0].Status)</th>
-    </tr>
+        <th style="width:10%; color :white ">Status</th>
+    </tr>           
+    
+    @foreach (var item in Model.Employee)
+    {
+        if (item.StatusEva == 0 )
+        {
+<tr>
+    <td> @Model.Department[item.Employee_DepartmentID - 1].DepartmentName</td>
+    <td> @Html.DisplayFor(modelItem => item.FirstName)</td>
+    <td> @Html.DisplayFor(modelItem => item.LastName)</td>
+    <td> <a asp-page="../GradeHistorys/Index" class="btn btn-outline-dark" asp-route-id="@item.EmployeeID"> แบบฟอร์ม </a>  </td>
    
-   
+</tr>
+
+        }
+
+
+    }
+
 </table>
 
 <from hidden>
@@ -145,8 +161,8 @@
         }
     }
 </script>
-
-<a asp-page="Create">Create New</a>
+<br />
+<a class="btn btn-outline-danger " asp-page="Create">Add Employee</a>
 
 
 

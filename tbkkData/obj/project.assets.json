@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\New Reserve TBKK Project\\Tbkkเติ้ก - Copy\\tbkkData(Trapodation && Performant)_26_11_62(18.00)\\tbkkData(TS)_25_11_62\\tbkkData\\tbkkData\\tbkkData.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Now TBKK performacne - Copy\\Tbkkเติ้ก - Copy\\tbkkData(Trapodation && Performant)_26_11_62(18.00)\\tbkkData(TS)_25_11_62\\tbkkData\\tbkkData\\tbkkData.csproj",
       "projectName": "tbkkData",
-      "projectPath": "C:\\Users\\USER\\Desktop\\New Reserve TBKK Project\\Tbkkเติ้ก - Copy\\tbkkData(Trapodation && Performant)_26_11_62(18.00)\\tbkkData(TS)_25_11_62\\tbkkData\\tbkkData\\tbkkData.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Now TBKK performacne - Copy\\Tbkkเติ้ก - Copy\\tbkkData(Trapodation && Performant)_26_11_62(18.00)\\tbkkData(TS)_25_11_62\\tbkkData\\tbkkData\\tbkkData.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\New Reserve TBKK Project\\Tbkkเติ้ก - Copy\\tbkkData(Trapodation && Performant)_26_11_62(18.00)\\tbkkData(TS)_25_11_62\\tbkkData\\tbkkData\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Now TBKK performacne - Copy\\Tbkkเติ้ก - Copy\\tbkkData(Trapodation && Performant)_26_11_62(18.00)\\tbkkData(TS)_25_11_62\\tbkkData\\tbkkData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12559,6 +12559,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://packagesource": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12598,10 +12599,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

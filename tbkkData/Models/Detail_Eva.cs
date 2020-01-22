@@ -12,17 +12,18 @@ namespace tbkkData.Models
         [Key]
         public int Detail_EvaID { get; set; }
         public int Evaluator_ID { get; set; }
-
+        public String Comment { get; set; }
+        
         [ForeignKey("Employee")]
-        public int DetailEva_EmployeeID { get; set; }
+        public int DeEva_EmployeeID { get; set; }
         public Employee Employee { get; set; }
 
         [ForeignKey("Evaluation")]
-        public int DetailEva_EvaluationID { get; set; }
+        public int DeEva_EvaluationID { get; set; }
         public Evaluation Evaluation { get; set; }
 
         [ForeignKey("GradeHistory")]
-        public int DetailEva_GradeHistoryID { get; set; }
+        public int DeEva_GradeHistoryID { get; set; }
         public GradeHistory GradeHistory { get; set; }
     }
 }

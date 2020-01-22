@@ -1,0 +1,180 @@
+﻿@page
+@model tbkkData.Pages.Employees.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+
+<!--////////////////////////////////////__Manage_Table//////////////////////////////////////////////-->
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        #myInput {
+            background-image: url('/css/searchicon.png');
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            width: 100%;
+            font-size: 16px;
+            padding: 12px 20px 12px 40px;
+            border: 1px solid #ddd;
+            margin-bottom: 12px;
+        }
+
+        #myTable {
+            border-collapse: collapse;
+            width: 100%;
+            border: 1px solid #ddd;
+            font-size: 18px;
+        }
+
+            #myTable th, #myTable td {
+                text-align: left;
+                padding: 12px;
+            }
+
+            #myTable tr {
+                border-bottom: 1px solid #ddd;
+            }
+
+                #myTable tr.header, #myTable tr:hover {
+                    background-color: #f1f1f1;
+                }
+    </style>
+</head>
+
+<br />
+<ol class="alert-warning   ">
+
+    <h2 align="center"> Quick Evalution</h2>
+</ol>
+<br>
+<h3>Search</h3>
+
+<form onclick="myFunction() ">
+    <select class="custom-select" style="padding-top:5px; padding-bottom:10px; max-height:50px;" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+        <option> </option>
+        <option>Accounting Department</option>
+        <option>Human Resource</option>
+        <option>Production Department</option>
+        <option>Sales Department</option>
+        <option>Information Technology</option>
+    </select>
+</form>
+<br>
+
+<table id="myTable">
+   
+    <tr style="background-color: black  " class="header">
+        <th style="width:25%; color :white ">&nbsp;&nbsp; @Html.DisplayNameFor(model => model.Employee[0].DepartmentID.DepartmentName)</th>
+        <th style="width:25%; color :white "> @Html.DisplayNameFor(model => model.Employee[0].FirstName)</th>
+        <th style="width:25%; color :white "> @Html.DisplayNameFor(model => model.Employee[0].LastName)</th>
+        <th style="width:10%; color :white ">&nbsp;5&nbsp;&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;1</th>
+    </tr>
+    @foreach (var item in Model.Employee)
+    {
+        if (item.StatusEva == 0)
+        {
+            <tr>
+                <td> @Model.Department[item.Employee_DepartmentID - 1].DepartmentName</td>
+                <td> @Html.DisplayFor(modelItem => item.FirstName)</td>
+                <td> @Html.DisplayFor(modelItem => item.LastName)</td>
+                <td height="30" align="center">
+                    <input type="radio" name=@item.EmployeeID onclick="number1=5" required="required" />&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name=@item.EmployeeID onclick="number1=4" />&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name=@item.EmployeeID onclick="number1=3" />&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name=@item.EmployeeID onclick="number1=2" />&nbsp;&nbsp;&nbsp;
+                    <input type="radio" name=@item.EmployeeID onclick="number1=1" />
+
+                </td>
+
+            </tr>
+
+        }
+
+
+    }
+
+
+</table>
+
+<from hidden>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="GradeHistory.GrahAllPoint" class="control-label"></label>
+        <input asp-for="GradeHistory.GrahAllPoint" class="form-control" value=0 />
+        <span asp-validation-for="GradeHistory.GrahAllPoint" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="GradeHistory.GrahBonusUp" class="control-label"></label>
+        <input asp-for="GradeHistory.GrahBonusUp" class="form-control" value=0 />
+        <span asp-validation-for="GradeHistory.GrahBonusUp" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="GradeHistory.Count" class="control-label"></label>
+        <input asp-for="GradeHistory.Count" class="form-control" value=0 />
+        <span asp-validation-for="GradeHistory.Count" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="GradeHistory.GrahSalaryUp" class="control-label"></label>
+        <input asp-for="GradeHistory.GrahSalaryUp" class="form-control" value=0 />
+        <span asp-validation-for="GradeHistory.GrahSalaryUp" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="GradeHistory.GrahYear" class="control-label"></label>
+        <input asp-for="GradeHistory.GrahYear" class="form-control" value=0 />
+        <span asp-validation-for="GradeHistory.GrahYear" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="GradeHistory.GrahRound1" class="control-label"></label>
+        <input asp-for="GradeHistory.GrahRound1" class="form-control" value=0 />
+        <span asp-validation-for="GradeHistory.GrahRound1" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="GradeHistory.GrahRound2" class="control-label"></label>
+        <input asp-for="GradeHistory.GrahRound2" class="form-control" value=0 />
+        <span asp-validation-for="GradeHistory.GrahRound2" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="GradeHistory.GrahRound3" class="control-label"></label>
+        <input asp-for="GradeHistory.GrahRound3" class="form-control" value=0 />
+        <span asp-validation-for="GradeHistory.GrahRound3" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-default" />
+    </div>
+</from>
+<script>
+    function myFunction() {
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById("myInput");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+</script>
+
+<a asp-page="Create">Create New</a>
+
+
+
+
+<!--////////////////////////////////////__Manage_Table//////////////////////////////////////////////-->

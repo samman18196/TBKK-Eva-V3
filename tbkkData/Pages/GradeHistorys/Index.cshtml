@@ -72,15 +72,15 @@
                         var number7 = 0;
                         var number8 = 0;
                         //----------------------------------------------
-                        var sum = 0 ;
+                        var sum = 0;
 
                         function myFunction() {
                             document.getElementById("test").innerHTML = sum = number1 + number2 + number3 + number4 + number5 + number6 + number7 + number8 + " / 40";
-                           
+
                         }
 
                         //ฟังก์ชั่นส่งคะแนน
-                        function  SumofPoint() {
+                        function SumofPoint() {
                             sum = number1 + number2 + number3 + number4 + number5 + number6 + number7 + number8
                         }
                     </script>
@@ -105,27 +105,27 @@
                     <tr>
                         <td height="60">&nbsp; 1.Collaboration(การทำงานร่วมกับผู้อื่น)</td>
                         <td height="30" align="center">
-                            <input type="radio"  name="a1" onclick="number1=5" required="required" />
+                            <input type="radio" name="a1" onclick="number1=5" required="required" />
                         </td>
                         <td height="30" align="center">
-                            <input type="radio"  name="a1" onclick="number1=4" />
+                            <input type="radio" name="a1" onclick="number1=4" />
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio"  name="a1" onclick="number1=3" />
+                            <input type="radio" name="a1" onclick="number1=3" />
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio"  name="a1" onclick="number1=2" />
+                            <input type="radio" name="a1" onclick="number1=2" />
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio"  name="a1" onclick="number1=1" />
+                            <input type="radio" name="a1" onclick="number1=1" />
 
                         </td>
-                       
+
                     </tr>
-                    
+
                     <tr>
                         <td height="60">&nbsp; 2.Teamwork(การทำงานเป็นทีม)</td>
                         <td height="30" align="center">
@@ -187,7 +187,7 @@
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio" name="a4"onclick="number4=2"  />
+                            <input type="radio" name="a4" onclick="number4=2" />
 
                         </td>
                         <td height="30" align="center">
@@ -207,11 +207,11 @@
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio" name="a5" onclick="number5=4 "/>
+                            <input type="radio" name="a5" onclick="number5=4 " />
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio" name="a5" onclick="number5=3 "/>
+                            <input type="radio" name="a5" onclick="number5=3 " />
 
                         </td>
                         <td height="30" align="center">
@@ -219,7 +219,7 @@
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio" name="a5" onclick="number5=1 "/>
+                            <input type="radio" name="a5" onclick="number5=1 " />
 
                         </td>
                     </tr>
@@ -257,7 +257,7 @@
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio" name="a7" onclick="number7=3  "/>
+                            <input type="radio" name="a7" onclick="number7=3  " />
 
                         </td>
                         <td height="30" align="center">
@@ -276,11 +276,11 @@
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio" name="a8" onclick="number8=4"  />
+                            <input type="radio" name="a8" onclick="number8=4" />
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio" name="a8" onclick="number8=3"  />
+                            <input type="radio" name="a8" onclick="number8=3" />
 
                         </td>
                         <td height="30" align="center">
@@ -288,7 +288,7 @@
 
                         </td>
                         <td height="30" align="center">
-                            <input type="radio" name="a8" onclick="number8=1"  />
+                            <input type="radio" name="a8" onclick="number8=1" />
 
                         </td>
                     </tr>
@@ -297,22 +297,19 @@
                 </table>
                 <br />
                 <h1 style="font-size:18px"> ตอนที่ 2 ข้อเสนอแนะเพิ่มเติม </h1>
-                <div class="col-sm-12">
-                    <label hidden asp-for="Evaluation.EvaDetail" class="col-sm-0 col-form-label"></label>
-                    <textarea rows="4" cols="15" asp-for="Evaluation.EvaDetail" class="form-control"></textarea>
-                    <span asp-validation-for="Evaluation.EvaDetail" class="text-danger"></span>
-                </div>
+
                 <br />
 
 
 
 
 
-
-
             </form>
-         
-            <button  onclick="SumofPoint()" class="btn btn-primary">Next</button>
+
+            <button onclick="myFunction()" class="btn btn-primary">Next</button>
+
+           
+
             <a id="test"></a>
             <br /><br />
         </div>
